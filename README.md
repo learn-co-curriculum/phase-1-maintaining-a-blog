@@ -56,7 +56,7 @@ Read on for some tips on getting started!
 
 ## Getting Started
 
-We recommend setting up your blog on an easy-to-use platform like [Medium](https://medium.com/) or [Tumbler](https://www.tumblr.com/). Setting up your blog and posting new content should be easy––reserve your effort for writing blog posts and learning to code. However, if you want a bit of an extra challenge, you can try blogging with [Jekyll](https://jekyllrb.com/) or [Octopress](http://octopress.org/). Or, if you're willing to pay a monthly fee, we recommend using [Ghost](https://ghost.org/). 
+We recommend setting up your blog on an easy-to-use platform like [Medium](https://medium.com/) or [Tumblr](https://www.tumblr.com/). Setting up your blog and posting new content should be easy––reserve your effort for writing blog posts and learning to code. However, if you want a bit of an extra challenge, you can try blogging with [Jekyll](https://jekyllrb.com/) or [Octopress](http://octopress.org/). Or, if you're willing to pay a monthly fee, we recommend using [Ghost](https://ghost.org/). 
 
 Don't hesitate to write your first blog post. Keep it simple. Pick a small topic that you're interested in exploring more, or a concept/technique/technology that you recently learned about that you'd like to cement for yourself. Something like [Nested Arrays and Hashes in Ruby](http://www.korenlc.com/nested-arrays-hashes-loops-in-ruby/) or even something a little less technical. 
 
