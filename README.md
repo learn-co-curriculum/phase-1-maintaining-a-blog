@@ -5,7 +5,7 @@ blog regularly and share some blog posts with your fellow classmates.
 
 But don't worry! It's going to be fun. We promise.
 
-![](http://readme-pics.s3.amazonaws.com/cat_3.jpg)
+![Photo by Catherine Heath on Unsplash](https://curriculum-content.s3.amazonaws.com/immersive-course-logistics/maintaining-a-blog/Image_135_CatOnComputer.jpg)
 
 ## Why We Blog
 
