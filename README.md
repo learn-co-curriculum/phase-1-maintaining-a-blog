@@ -5,8 +5,6 @@ blog regularly and share some blog posts with your fellow classmates.
 
 But don't worry! It's going to be fun. We promise.
 
-![Photo by Catherine Heath on Unsplash](https://curriculum-content.s3.amazonaws.com/immersive-course-logistics/maintaining-a-blog/Image_135_CatOnComputer.jpg)
-
 ## Why We Blog
 
 There are a number of very important reasons for maintaining your blog. Having a
@@ -136,12 +134,6 @@ Soon, we'll deploy a schedule of blog posts. Every day three different students
 will have a completed blog post due that they will share with the class. You can
 expect to have one blog post due every two-and-a-half to three weeks (but don't
 hesitate to blog more frequently than that!)
-
-In the meantime, for inspiration, and to get excited about blogging, you can
-check out the [catalogue of Flatiron Student blog posts][] (you'll be prompted
-to log in with your GitHub account first).
-
-[catalogue of Flatiron Student blog posts]: https://flatiron-blogger.herokuapp.com/posts
 
 ## General Guidelines
 
