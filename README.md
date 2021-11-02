@@ -115,7 +115,7 @@ _through his blog_.
 ## Getting Started
 
 We recommend setting up your blog on an easy-to-use platform like
-[Medium](https://medium.com/) or [Tumblr](https://www.tumblr.com/). Setting up
+[Medium](https://medium.com/) or [DEV](https://dev.to/). Setting up
 your blog and posting new content should be easy––reserve your effort for
 writing blog posts and learning to code. However, if you want a bit of an extra
 challenge, you can try blogging with [Jekyll](https://jekyllrb.com/) or
@@ -130,10 +130,11 @@ something a little less technical.
 
 [Nested Arrays and Hashes in Ruby]: http://www.korenlc.com/nested-arrays-hashes-loops-in-ruby/
 
-Soon, we'll deploy a schedule of blog posts. Every day three different students
-will have a completed blog post due that they will share with the class. You can
-expect to have one blog post due every two-and-a-half to three weeks (but don't
-hesitate to blog more frequently than that!)
+If you are in the Immersive program, soon we'll deploy a schedule of blog posts.
+Every day three different students will have a completed blog post due that they
+will share with the class. You can expect to have one blog post due every
+two-and-a-half to three weeks (but don't hesitate to blog more frequently than
+that!)
 
 ## General Guidelines
 
