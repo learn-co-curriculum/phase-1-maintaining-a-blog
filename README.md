@@ -130,10 +130,11 @@ something a little less technical.
 
 [Nested Arrays and Hashes in Ruby]: http://www.korenlc.com/nested-arrays-hashes-loops-in-ruby/
 
-Soon, we'll deploy a schedule of blog posts. Every day three different students
-will have a completed blog post due that they will share with the class. You can
-expect to have one blog post due every two-and-a-half to three weeks (but don't
-hesitate to blog more frequently than that!)
+If you are in the Immersive program, soon we'll deploy a schedule of blog posts.
+Every day three different students will have a completed blog post due that they
+will share with the class. You can expect to have one blog post due every
+two-and-a-half to three weeks (but don't hesitate to blog more frequently than
+that!)
 
 ## General Guidelines
 
