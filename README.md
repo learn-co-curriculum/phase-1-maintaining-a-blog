@@ -115,7 +115,7 @@ _through his blog_.
 ## Getting Started
 
 We recommend setting up your blog on an easy-to-use platform like
-[Medium](https://medium.com/) or [Tumblr](https://www.tumblr.com/). Setting up
+[Medium](https://medium.com/) or [DEV](https://dev.to/). Setting up
 your blog and posting new content should be easy––reserve your effort for
 writing blog posts and learning to code. However, if you want a bit of an extra
 challenge, you can try blogging with [Jekyll](https://jekyllrb.com/) or
