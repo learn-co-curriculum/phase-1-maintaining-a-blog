@@ -106,8 +106,8 @@ stage.
 * Another student, Steven, had their [blog post][] picked up by a Medium
 publication.
 
-* One student from 2017 received a job offer from an employer who found him
-_through his blog_.
+* Multiple former students have received job offers from an employer who found them
+_through their blogs_.
 
 [awesome blog]: http://talum.github.io/
 [blog post]: https://codeburst.io/bottom-of-the-barrel-8ef73eff00f0
@@ -139,11 +139,11 @@ that!)
 ## General Guidelines
 
 * Stick to programming related topics.
-* If you are including code examples, make sure to test them and ensure there are no errors
+* If you are including code examples, make sure to test them and ensure there
+  are no errors
 * Do not plagiarize
 * No offensive material. Remember, this is a blog that you will be able to use
   in your future job search.
 * Citing any sources is very helpful to your readers.
 
 Don't forget to check spelling and grammar before publishing!
-
