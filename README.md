@@ -32,7 +32,7 @@ along with some generous developers blog post to implement something like
 or even [making your own gem][].
 
 [web scraping with Ruby]: https://medium.com/@LindaHaviv/the-beginner-s-guide-scraping-in-ruby-cheat-sheet-c4f9c26d1b8c#.kkwe918o4
-[setting up the Devise gem in a Rails application]: https://medium.com/@sherriously/switching-from-standard-bcrypt-rails-authentication-to-devise-1fd0e910bdda#.fj8ckgksq
+[setting up the Devise gem in a Rails application]: https://stucklucky.medium.com/how-to-set-up-rails-devise-5bd39732629f
 [making your own gem]: http://www.thegreatcodeadventure.com/lets-make-a-gem/
 
 As a beginning developer, you'll find yourself taking advantage of the many
