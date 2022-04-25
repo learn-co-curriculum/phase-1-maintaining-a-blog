@@ -94,7 +94,7 @@ developer.
 ## Some Short and Happy Stories About Blogging
 
 While we mainly blog for our own personal growth and to give back to the
-community, ocassionally, blogging during coursework has led some surprising
+community, occassionally, blogging during coursework has led some surprising
 results!
 
 * One former student, Tracy, maintained a technical blog while she was a student
@@ -115,12 +115,11 @@ _through their blogs_.
 ## Getting Started
 
 We recommend setting up your blog on an easy-to-use platform like
-[Medium](https://medium.com/) or [DEV](https://dev.to/). Setting up
-your blog and posting new content should be easy––reserve your effort for
-writing blog posts and learning to code. However, if you want a bit of an extra
-challenge, you can try blogging with [Jekyll](https://jekyllrb.com/) or
-[Octopress](http://octopress.org/). Or, if you're willing to pay a monthly fee,
-we recommend using [Ghost](https://ghost.org/).
+[Medium](https://medium.com/) or [DEV](https://dev.to/). Setting up your blog
+and posting new content should be easy––reserve your effort for writing blog
+posts and learning to code. However, if you want a bit of an extra challenge,
+you can try blogging with [Jekyll](https://jekyllrb.com/) or, if you're willing
+to pay a monthly fee, we recommend using [Ghost](https://ghost.org/).
 
 Don't hesitate to write your first blog post. Keep it simple. Pick a small topic
 that you're interested in exploring more, or a concept/technique/technology that
