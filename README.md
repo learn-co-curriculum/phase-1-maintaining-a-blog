@@ -29,11 +29,12 @@ stumbled upon someone's technical blog? Even if you haven't had that experience
 yet, we guarantee that over the course of the next few months, you'll follow
 along with some generous developers blog post to implement something like
 [web scraping with Ruby][], [setting up the Devise gem in a Rails application][]
-or even [making your own gem][].
+or even [making your own gem][]. Don't forget to [cite your sources][]!
 
 [web scraping with Ruby]: https://medium.com/@LindaHaviv/the-beginner-s-guide-scraping-in-ruby-cheat-sheet-c4f9c26d1b8c#.kkwe918o4
 [setting up the Devise gem in a Rails application]: https://stucklucky.medium.com/how-to-set-up-rails-devise-5bd39732629f
 [making your own gem]: http://www.thegreatcodeadventure.com/lets-make-a-gem/
+[cite your sources]: https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html
 
 As a beginning developer, you'll find yourself taking advantage of the many
 wonderful blogs out there. That's one of the great things about the tech
@@ -143,6 +144,8 @@ that!)
 * Do not plagiarize
 * No offensive material. Remember, this is a blog that you will be able to use
   in your future job search.
-* Citing any sources is very helpful to your readers.
+* [Citing your sources][] is very helpful to your readers.
+
+[Citing your sources]: https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html
 
 Don't forget to check spelling and grammar before publishing!
