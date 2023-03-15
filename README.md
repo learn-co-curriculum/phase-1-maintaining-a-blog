@@ -10,13 +10,11 @@ But don't worry! It's going to be fun. We promise.
 There are a number of very important reasons for maintaining your blog. Having a
 personal technical blog demonstrates that you:
 
-* Know your craft
+- Know your craft
+- Understand and are passionate about your industry
+- Can communicate through writing
 
-* Understand and are passionate about your industry
-
-* Can communicate through writing
-
-And perhaps you can even build an audience - suggesting you’re pretty darn
+And perhaps you can even build an audience — suggesting you’re pretty darn
 likeable!
 
 All of these are important down the line (don't worry about it now!) when you
@@ -24,21 +22,23 @@ are engaging in the job search.
 
 Lastly, and very importantly, by blogging, you are giving back to the
 development community of which you are now a part. How many times over the past
-few weeks have you Googled something like "iterate over nested hash ruby" and
-stumbled upon someone's technical blog? Even if you haven't had that experience
-yet, we guarantee that over the course of the next few months, you'll follow
-along with some generous developers blog post to implement something like
-[web scraping with Ruby][], [setting up the Devise gem in a Rails application][]
-or even [making your own gem][]. Don't forget to [cite your sources][]!
+few weeks have you Googled something like "iterate over nested object
+javascript" and stumbled upon someone's technical blog? Even if you haven't had
+that experience yet, we guarantee that over the course of the next few months,
+you'll follow along with some generous developer's blog post to implement
+something like [authentication in React][], [better accessibility practices][],
+or [server-rendered React applications using Next.js][]. Don't forget to [cite
+your sources][citing your sources]!
 
-[web scraping with Ruby]: https://medium.com/@LindaHaviv/the-beginner-s-guide-scraping-in-ruby-cheat-sheet-c4f9c26d1b8c#.kkwe918o4
-[setting up the Devise gem in a Rails application]: https://stucklucky.medium.com/how-to-set-up-rails-devise-5bd39732629f
-[making your own gem]: http://www.thegreatcodeadventure.com/lets-make-a-gem/
-[cite your sources]: https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html
+[authentication in react]: https://davidwalsh.name/react-authentication-2
+[better accessibility practices]:
+  https://sarajw.hashnode.dev/aspects-of-accessibility-a11y-semantics-contrast-and-anxiety
+[server-rendered react applications using next.js]:
+  https://blog.astrosaurus.me/how-to-nextjs
 
 As a beginning developer, you'll find yourself taking advantage of the many
 wonderful blogs out there. That's one of the great things about the tech
-community--it's full of people who want to learn, and who want to help others
+community — it's full of people who want to learn, and who want to help others
 learn.
 
 _Your_ blog is your opportunity to give back to the tech community.
@@ -66,8 +66,8 @@ and revisit their own posts again and again when faced with similar challenges.
 
 Blogging also sets you apart from others in the job search. When an employer
 sees that you have a blog, it shows you’re unique, passionate, and productive on
-your own time. And guess what? Hiring managers want to hire people who are passionate
-and driven.
+your own time. And guess what? Hiring managers want to hire people who are
+passionate and driven.
 
 Even more, blogging shows a lot more than a resume does. On a resume, you simply
 recall your experience, accomplishments, and what skills you have. With a blog
@@ -76,7 +76,7 @@ your personality than a resume alone.
 
 Aside from standing out to employers, maintaining a blog keeps you sharp. It
 gives you the opportunity to put your skills to use. Skills like developing and
-designing your website to writing content.
+designing your website and writing content.
 
 Blogging also gives you the opportunity to engage with other bloggers, and vice
 versa. It is a great way to engage with others and build relationships with
@@ -92,60 +92,35 @@ keep in mind that there are a lot of beginners out there that will benefit from
 you sharing what you're learning at every stage of your development as a
 developer.
 
-## Some Short and Happy Stories About Blogging
-
-While we mainly blog for our own personal growth and to give back to the
-community, occassionally, blogging during coursework has led some surprising
-results!
-
-* One former student, Tracy, maintained a technical blog while she was a student
-and TA at Flatiron. When Tracy applied to be a developer at Rent the Runway, her
-future employers checked out her [awesome blog][] and liked it so much, they
-skipped over giving her a code challenge and advanced her to the final interview
-stage.
-
-* Another student, Steven, had their [blog post][] picked up by a Medium
-publication.
-
-* Multiple former students have received job offers from an employer who found them
-_through their blogs_.
-
-[awesome blog]: http://talum.github.io/
-[blog post]: https://codeburst.io/bottom-of-the-barrel-8ef73eff00f0
-
 ## Getting Started
 
 We recommend setting up your blog on an easy-to-use platform like
 [Medium](https://medium.com/) or [DEV](https://dev.to/). Setting up your blog
-and posting new content should be easy––reserve your effort for writing blog
-posts and learning to code. However, if you want a bit of an extra challenge,
-you can try blogging with [Jekyll](https://jekyllrb.com/) or, if you're willing
-to pay a monthly fee, we recommend using [Ghost](https://ghost.org/).
+and posting new content should be easy — reserve your effort for writing blog
+posts and learning to code. Another good option is
+[Hashnode](https://hashnode.com/), a blog platform built specifically for
+developers.
 
 Don't hesitate to write your first blog post. Keep it simple. Pick a small topic
 that you're interested in exploring more, or a concept/technique/technology that
 you recently learned about that you'd like to cement for yourself. Something
-like [Nested Arrays and Hashes in Ruby][] or even
-something a little less technical.
+like [optional chaining in JavaScript][] or even something a little less
+technical.
 
-[Nested Arrays and Hashes in Ruby]: http://www.korenlc.com/nested-arrays-hashes-loops-in-ruby/
-
-If you are in the Immersive program, soon we'll deploy a schedule of blog posts.
-Every day three different students will have a completed blog post due that they
-will share with the class. You can expect to have one blog post due every
-two-and-a-half to three weeks (but don't hesitate to blog more frequently than
-that!)
+[optional chaining in javascript]:
+  https://inshaweb.hashnode.dev/optional-chaining-in-javascript
 
 ## General Guidelines
 
-* Stick to programming related topics.
-* If you are including code examples, make sure to test them and ensure there
+- Stick to programming related topics.
+- If you are including code examples, make sure to test them and ensure there
   are no errors
-* Do not plagiarize
-* No offensive material. Remember, this is a blog that you will be able to use
+- Do not plagiarize
+- No offensive material. Remember, this is a blog that you will be able to use
   in your future job search.
-* [Citing your sources][] is very helpful to your readers.
+- [Citing your sources][] is very helpful to your readers.
 
-[Citing your sources]: https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html
+[citing your sources]:
+  https://owl.purdue.edu/owl/research_and_citation/ieee_style/ieee_overview.html
 
 Don't forget to check spelling and grammar before publishing!
